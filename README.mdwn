@@ -1,4 +1,4 @@
-![Rendered OR gate in OpenSCAD](https://raw.github.com/jmacarthur/slidinglogic/mechanical-or-gate.png)
+![Rendered OR gate in OpenSCAD](https://raw.githubusercontent.com/jmacarthur/slidinglogic/master/mechanical-or-gate.png)
 
 This is a demonstration of sliding plate logic, as used by Konrad Zuse in his Z1 computer. It can be made out of laser-cut acrylic and M3 nuts and bolts.
 
