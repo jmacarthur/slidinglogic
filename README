@@ -1,3 +1,5 @@
+![Rendered OR gate in OpenSCAD](https://raw.github.com/jmacarthur/slidinglogic/mechanical-or-gate.png)
+
 This is a demonstration of sliding plate logic, as used by Konrad Zuse in his Z1 computer. It can be made out of laser-cut acrylic and M3 nuts and bolts.
 
 The inputs to the gate are the two rods on top. These can be pushed upwards (1) or downwards (0). To run a 'clock cycle', the lever on the left should start in the centre, vertical position. It is then pushed fully left and then fully right, then returned to vertical. The output rod on the right will be returned to zero initially, and then pushed right if the output is 1.
